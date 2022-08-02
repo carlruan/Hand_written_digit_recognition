@@ -1,0 +1,155 @@
+﻿  main.cpp
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(24,50): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(25,34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(26,38): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(38,30): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(39,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(41,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(70,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(164,82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(176,81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(189,9): warning C4101: “tp”: 未引用的局部变量
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(275,9): warning C4101: “tp”: 未引用的局部变量
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(366,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(362,24): warning C4101: “sub”: 未引用的局部变量
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(438,38): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(438,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(440,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(441,20): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(442,26): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(443,26): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(445,95): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(445,82): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(445,62): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(445,32): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(448,21): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(449,22): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(451,126): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(451,89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(451,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(451,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(454,129): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(454,116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(454,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(454,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(456,51): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(456,37): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(484,38): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(484,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(486,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(487,20): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(488,26): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(489,26): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(491,84): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(491,73): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(491,57): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(491,31): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(493,21): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(494,22): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(496,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(496,87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(496,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(496,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(498,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(498,113): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(498,95): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(498,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(500,49): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\cppProject\opencvDemo\opencvDemo01\opencvDemo01\writtenDigitalRec\main.cpp(500,36): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  opencvDemo01.vcxproj -> E:\cppProject\opencvDemo\opencvDemo01\x64\Debug\opencvDemo01.exe
